@@ -1,0 +1,5 @@
+build*/
+.vscode/
+src/emucore/frontend/user-space/
+src/emucore/system/impl/ppc-darwin/
+src/software/
